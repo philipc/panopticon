@@ -17,7 +17,7 @@ tempdir = "0.3.4"
 lazy_static = "0.1.16"
 uuid = { version = "0.2.0", features = ["rustc-serialize", "v4"]}
 flate2 = "0.2.13"
-rmp-serialize = "0.7.0"
+rmp-serialize = "0.8.0"
 byteorder = "0.5.1"
 goblin = "0.0.5"
 
